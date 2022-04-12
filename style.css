@@ -1,0 +1,140 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "cairo";
+}
+
+/* navbar */
+
+.logo {
+    height: 2.7rem;
+
+}
+
+.nav-linkStyle {
+
+    padding: 10px 110px;
+    background-color: #B37978;
+
+}
+
+.navStyle {
+    color: black;
+    font-size: 15px;
+}
+
+.d {
+    font-size: 15px;
+    padding: 1px 25px;
+}
+
+/*end navbar*/
+.carousel-caption div {
+    transform: translateY(-50%);
+    bottom: initial;
+    top: 50%;
+    left: 0%
+}
+
+#carouselExampleCaptions .carousel-item img {
+    object-fit: cover;
+    object-position: center;
+    overflow: hidden;
+    height: 85vh;
+}
+
+
+/*social media icons*/
+.fa {
+
+    font-size: 30px;
+    width: 37px;
+    height: 37px;
+    text-align: center;
+    text-decoration: none;
+    border: 1px solid #B37978;
+
+    border-radius: 50%;
+
+}
+
+.icon {
+    font-size: 20px;
+    padding-top: 9px;
+    padding-bottom: 10px;
+    color: #B37978;
+}
+
+.icon2 {
+    font-size: 16px;
+    padding-top: 9px;
+    padding-bottom: 10px;
+    color: white;
+}
+
+.faa {
+
+    font-size: 20px;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    text-decoration: none;
+    border: 1px solid #B37978;
+    background-color: #B37978;
+
+    border-radius: 50%;
+
+}
+
+.fa-phone {
+    font-size: 17px;
+    padding: 5px 5px 12px 6px;
+    color: white;
+
+}
+
+/*End social media icons*/
+/*Style Experts*/
+
+/*Style Experts*/
+
+/*Footer Style*/
+.textStyle {
+    font-size: smaller;
+    font-family: "Cairo";
+}
+
+/*End Footer Style*/
+/*swiper*/
+html,
+body {
+    position: relative;
+    height: 100%;
+}
+
+.swiper {
+    width: 100%;
+    height: 80%;
+}
+
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+
+
+}
+
+  .cardZoom:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 6px 0 rgba(22, 22, 26, 0.18);
+
+  }
+ 
+
+/*swiper*/
+
+
+/*Contact page stayle*/
+.contactImg {
+    width: 100%;
+}
